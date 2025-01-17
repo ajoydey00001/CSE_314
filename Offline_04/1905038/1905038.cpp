@@ -12,6 +12,7 @@
 #include<iostream>
 
 
+
 #define Available 1
 #define Busy 2
 #define Ready 0
