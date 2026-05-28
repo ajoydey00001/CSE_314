@@ -58,7 +58,7 @@ The patch modifies xv6 scheduling behavior by adding:
 
 ### Offline 04: IPC Assignment
 
-The C++ program models a science project report submission system. Students use print stations, group leaders use binding stations, and library staff read from a shared entry book while group leaders write to it. The implementation uses `pthread`, POSIX semaphores, and a reader-writer lock.
+The C++ program models a science project report submission system.Here, Students use print stations, group leaders use binding stations, and library staff read from a shared entry book while group leaders write to it. The implementation uses `pthread`, POSIX semaphores, and a reader-writer lock.
 
 ## Notes
 
